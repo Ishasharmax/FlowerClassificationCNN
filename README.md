@@ -1,6 +1,6 @@
 # Flower Classification using CNN
 
-## Description of the project/task
+## Description
 The main aim from this project is to understand how to use Deep Learning models to solve a Supervised Image Classification problem of recognizing the flower types - rose, chamomile, dandelion, sunflower, & tulip. In the end, we’ll have a trained model which can predict the class of the flower using a Machine Learning algorithm, the Neural Networks. We will specifically use Flowers Recognition dataset from Kaggle, which consists of 5 classes of flower species, each having about 800 images. So, we’ve a total of 4242 images to train our model with. 
 
 ## Source of data
