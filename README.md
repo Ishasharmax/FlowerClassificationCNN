@@ -18,13 +18,13 @@ Keras is an amazing library to quickly start Deep Learning, as it offers simple 
 ## Dependencies
 The following Python packages are used to do the project:
 
-TensorFlow - Backend engine to run keras on top of it.
-Pandas - A data science tool used with Python for data wrangling & analysis, mainly of tabularised data.
-Keras - It's a wrapper for Deep Learning libraries namely TensorFlow and to build Deep Neural Nets.
-NumPy - It is used for different mathematical & data manipulation operations.
-Matplotlib - It is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
-Seaborn - It is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
-Scikit-learn - A framework to build several machine learning models.
+- TensorFlow - Backend engine to run keras on top of it.
+- Pandas - A data science tool used with Python for data wrangling & analysis, mainly of tabularised data.
+- Keras - It's a wrapper for Deep Learning libraries namely TensorFlow and to build Deep Neural Nets.
+- NumPy - It is used for different mathematical & data manipulation operations.
+- Matplotlib - It is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
+- Seaborn - It is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
+- Scikit-learn - A framework to build several machine learning models.
 
 ## Conclusion
 - To learn to use the pre-trained Deep Convolutional Neural Nets to extract features from the images with keras.
