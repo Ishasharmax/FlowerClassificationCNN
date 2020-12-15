@@ -31,5 +31,14 @@ The following Python packages are used to do the project:
 - To learn how to make use of different python libraries like NumPy & Matplotlib for complex data manipulation tasks and mathematical operations.
 - To learn how to design several machine learning models, test their accuracies & compare them while avoiding overfitting with the help of cross validation techniques.
 
+## Timeline
+Nov 7 - Nov 10: Importing, analyzing, & preparing the data set, create basic structure in python
+Nov 11 - Nov14: Loading image, convert image to pixels, read/print the pixels
+Nov 15 - Nov 20: Get the training & validation set from the Images
+Nov 21 - Nov 30: Training & testing model, making predictions & visualizing
+Dec 1 - Dec 5: Plotting results
+Dec 6 - Dec 13: Finalizing work
+Dec 14: Project due
+
 ## Document
 https://docs.google.com/document/d/1S1LRyeqN9MZPP21GKwcY7FKuwjoBayT5dC9ZCyU95fo/edit
